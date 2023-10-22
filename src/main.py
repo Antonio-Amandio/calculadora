@@ -17,7 +17,7 @@ janela.geometry('486x486') # Configuração da dimensão da janela (Largura e Al
 janela.configure(background=cor_fundo) # Configuração da cor de fundo da janela
 janela.resizable(width=False, height=False) # Redimensionamento da janela (Largura e Altura)
 
-janela.iconphoto(False, PhotoImage(file=r'images/icon-calculadora-58x58.png')) # Configuração do ícone da janela
+janela.iconphoto(False, PhotoImage(file=r'img/icon-calculator-58x58.png')) # Configuração do ícone da janela
 
 # Criação das variáveis globais
 
